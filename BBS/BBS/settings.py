@@ -1,7 +1,7 @@
 '''
 @Author: your name
 @Date: 2020-07-11 13:41:06
-@LastEditTime: 2020-07-21 17:49:40
+@LastEditTime: 2020-08-04 15:59:26
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: /Code/Scrapy/BBS/BBS/settings.py
@@ -114,3 +114,5 @@ CACHE_DB  = '/Users/canon/Desktop/Code/Scrapy/BBS/BBS/cache.db'
 
 # ALLOWED_CODES
 HTTPERROR_ALLOWED_CODES = [404, 503]
+
+TELNETCONSOLE_ENABLED = False
